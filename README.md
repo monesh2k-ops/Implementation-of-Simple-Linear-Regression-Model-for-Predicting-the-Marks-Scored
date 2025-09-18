@@ -1,5 +1,9 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: s.monesh
+RegisterNumber: 25016809
+
 
 ## Program:
 ```
