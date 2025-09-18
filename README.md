@@ -3,7 +3,9 @@
 
 ## Program:
 ```
-
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: s.monesh
+RegisterNumber: 25016809
 
 #step 1: Import libraries and load the dataset (Hours vs Marks)
 import pandas as pd 
